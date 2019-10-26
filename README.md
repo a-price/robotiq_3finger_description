@@ -1,5 +1,5 @@
 robotiq_3finger_description
-=========================
+===========================
 
 [![Build Status](https://travis-ci.org/a-price/robotiq_3finger_description.svg?branch=master)](https://travis-ci.org/a-price/robotiq_3finger_description)
 
